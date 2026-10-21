@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 640" width="1200" height="640" role="img" aria-label="Build log: seven systems">
+  <defs>
+    <style>
+      .t{font-family:'Segoe UI',Helvetica,Arial,sans-serif;fill:#F2F7F4}
+      .s{font-family:'Segoe UI',Helvetica,Arial,sans-serif;fill:#8FA89C;font-size:13px}
+      .n{font-family:'SF Mono',Menlo,Consolas,monospace;fill:#5CF2B0;font-size:13px;letter-spacing:2px}
+      .c{fill:#0d1713;stroke:#2a4a3b;stroke-width:1.5}
+      .hot{fill:#0f2219;stroke:#5CF2B0;stroke-width:1.5}
+      .chip{font-family:'Segoe UI',Helvetica,Arial,sans-serif;font-size:12px;font-weight:600}
+    </style>
+  </defs>
+  <rect width="1200" height="640" rx="16" fill="#070b09"/>
+  <text x="40" y="50" class="n">THE BUILD LOG</text>
+  <text x="40" y="82" class="t" font-size="22" font-weight="700">Seven systems. Each one documents what broke.</text>
+
+  <!-- row 1 -->
+  <g transform="translate(40,110)">
+    <rect width="270" height="200" rx="12" class="c"/>
+    <text x="20" y="34" class="n">01</text>
+    <text x="20" y="66" class="t" font-size="18" font-weight="700">Content Repurposing</text>
+    <text x="20" y="92" class="s">One YouTube video in, ten</text>
+    <text x="20" y="110" class="s">content assets out, into Notion.</text>
+    <rect x="20" y="156" width="74" height="26" rx="13" fill="#5CF2B0" fill-opacity="0.15"/>
+    <text x="57" y="173" text-anchor="middle" class="chip" fill="#5CF2B0">Working</text>
+  </g>
+  <g transform="translate(330,110)">
+    <rect width="270" height="200" rx="12" class="c"/>
+    <text x="20" y="34" class="n">02</text>
+    <text x="20" y="66" class="t" font-size="18" font-weight="700">AI Outreach</text>
+    <text x="20" y="92" class="s">Personalized cold email, timed</text>
+    <text x="20" y="110" class="s">follow-ups, reply tracking.</text>
+    <rect x="20" y="156" width="74" height="26" rx="13" fill="#5CF2B0" fill-opacity="0.15"/>
+    <text x="57" y="173" text-anchor="middle" class="chip" fill="#5CF2B0">Working</text>
+  </g>
+  <g transform="translate(620,110)">
+    <rect width="270" height="200" rx="12" class="c"/>
+    <text x="20" y="34" class="n">03</text>
+    <text x="20" y="66" class="t" font-size="18" font-weight="700">Lead Discovery</text>
+    <text x="20" y="92" class="s">Finds, scores and drafts outreach</text>
+    <text x="20" y="110" class="s">for Instagram leads in a niche.</text>
+    <rect x="20" y="156" width="74" height="26" rx="13" fill="#5CF2B0" fill-opacity="0.15"/>
+    <text x="57" y="173" text-anchor="middle" class="chip" fill="#5CF2B0">Working</text>
+  </g>
+  <g transform="translate(910,110)">
+    <rect width="250" height="200" rx="12" class="c"/>
+    <text x="20" y="34" class="n">04</text>
+    <text x="20" y="66" class="t" font-size="18" font-weight="700">Restaurant Outreach</text>
+    <text x="20" y="92" class="s">Audits a website, pitches what</text>
+    <text x="20" y="110" class="s">is wrong. Human approves all.</text>
+    <rect x="20" y="156" width="74" height="26" rx="13" fill="#5CF2B0" fill-opacity="0.15"/>
+    <text x="57" y="173" text-anchor="middle" class="chip" fill="#5CF2B0">Working</text>
+  </g>
+
+  <!-- row 2 -->
+  <g transform="translate(40,330)">
+    <rect width="270" height="200" rx="12" class="c"/>
+    <text x="20" y="34" class="n">05</text>
+    <text x="20" y="66" class="t" font-size="18" font-weight="700">Email Digest</text>
+    <text x="20" y="92" class="s">Inbox sorted by urgency, one</text>
+    <text x="20" y="110" class="s">summary on Telegram at 7am.</text>
+    <rect x="20" y="156" width="74" height="26" rx="13" fill="#5CF2B0" fill-opacity="0.15"/>
+    <text x="57" y="173" text-anchor="middle" class="chip" fill="#5CF2B0">Working</text>
+  </g>
+  <g transform="translate(330,330)">
+    <rect width="400" height="200" rx="12" class="hot"/>
+    <text x="20" y="34" class="n">06 · FLAGSHIP</text>
+    <text x="20" y="68" class="t" font-size="22" font-weight="700">Edit Theory Concierge</text>
+    <text x="20" y="96" class="s">A customer-facing booking assistant for restaurants,</text>
+    <text x="20" y="114" class="s">gyms, salons and travel agencies. React frontend,</text>
+    <text x="20" y="132" class="s">n8n backend, live status polling.</text>
+    <rect x="20" y="156" width="96" height="26" rx="13" fill="#F2C94C" fill-opacity="0.15"/>
+    <text x="68" y="173" text-anchor="middle" class="chip" fill="#F2C94C">Demo mode</text>
+  </g>
+  <g transform="translate(750,330)">
+    <rect width="410" height="200" rx="12" class="hot"/>
+    <text x="20" y="34" class="n">07 · NEW</text>
+    <text x="20" y="68" class="t" font-size="22" font-weight="700">RWA Complaint and Vendor Agent</text>
+    <text x="20" y="96" class="s">Complaints, vendor dispatch, resolution tracking and</text>
+    <text x="20" y="114" class="s">notices for an apartment society, over Telegram,</text>
+    <text x="20" y="132" class="s">with the secretary approving every send.</text>
+    <rect x="20" y="156" width="136" height="26" rx="13" fill="#F2C94C" fill-opacity="0.15"/>
+    <text x="88" y="173" text-anchor="middle" class="chip" fill="#F2C94C">Built, not piloted</text>
+  </g>
+
+  <text x="40" y="580" class="s">Status labels are literal. Demo mode and not-piloted mean exactly that, and each repo README says what is simulated.</text>
+  <text x="40" y="604" class="s">Stack across all of them: n8n, Groq, Google Sheets, Telegram, Gmail, Notion, Apify.</text>
+</svg>
