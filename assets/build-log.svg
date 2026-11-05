@@ -4,7 +4,7 @@
       .t{font-family:'Segoe UI',Helvetica,Arial,sans-serif;fill:#F5DABF}
       .s{font-family:'Segoe UI',Helvetica,Arial,sans-serif;fill:#d4b49b;font-size:13px}
       .n{font-family:'SF Mono',Menlo,Consolas,monospace;fill:#F5DABF;font-size:13px;letter-spacing:2px}
-      .c{fill:#4a0e15;stroke:#8c3a44;stroke-width:1.5}
+      .c{fill:#4d0f16;stroke:#c98a7a;stroke-width:1.5}
       .hot{fill:#0F3D3A;stroke:#F5DABF;stroke-width:1.5}
       .chip{font-family:'Segoe UI',Helvetica,Arial,sans-serif;font-size:12px;font-weight:600}
     @keyframes up{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
@@ -13,7 +13,7 @@
       @media (prefers-reduced-motion:reduce){*{animation:none!important}}
     </style>
   </defs>
-  <rect width="1200" height="780" rx="16" fill="#2b0a0e"/>
+  <rect width="1200" height="780" rx="16" fill="#6C151E"/>
   <text x="40" y="50" class="n">THE BUILD LOG</text>
   <text x="40" y="82" class="t" font-size="22" font-weight="700">Eight systems. Each one documents what broke.</text>
 
