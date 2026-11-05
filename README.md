@@ -4,9 +4,9 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/portfolio-edittheory--portfolio.vercel.app-9B2335?style=for-the-badge&labelColor=0F3D3A)](https://edittheory-portfolio.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-9B2335?style=for-the-badge&labelColor=0F3D3A&logo=linkedin&logoColor=F5DABF)](https://linkedin.com/in/samhita-tavutu-b17b2a37b/)
-[![Email](https://img.shields.io/badge/email-samhitatavutu%40gmail.com-9B2335?style=for-the-badge&labelColor=0F3D3A&logo=gmail&logoColor=F5DABF)](mailto:samhitatavutu@gmail.com)
+[![Portfolio](https://img.shields.io/badge/portfolio-edittheory--portfolio.vercel.app-6C151E?style=for-the-badge&labelColor=6C151E)](https://edittheory-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-6C151E?style=for-the-badge&labelColor=6C151E&logo=linkedin&logoColor=F5DABF)](https://linkedin.com/in/samhita-tavutu-b17b2a37b/)
+[![Email](https://img.shields.io/badge/email-samhitatavutu%40gmail.com-6C151E?style=for-the-badge&labelColor=6C151E&logo=gmail&logoColor=F5DABF)](mailto:samhitatavutu@gmail.com)
 
 </div>
 
@@ -47,17 +47,17 @@ Eleven concept websites for local brands, built as working demos.
 
 ## Toolbox
 
-![n8n](https://img.shields.io/badge/n8n-9B2335?style=flat-square&labelColor=0F3D3A&logo=n8n&logoColor=F5DABF)
-![Groq](https://img.shields.io/badge/Groq-9B2335?style=flat-square&labelColor=0F3D3A)
-![React](https://img.shields.io/badge/React-9B2335?style=flat-square&labelColor=0F3D3A&logo=react&logoColor=F5DABF)
-![TypeScript](https://img.shields.io/badge/TypeScript-9B2335?style=flat-square&labelColor=0F3D3A&logo=typescript&logoColor=F5DABF)
-![Tailwind](https://img.shields.io/badge/Tailwind-9B2335?style=flat-square&labelColor=0F3D3A&logo=tailwindcss&logoColor=F5DABF)
-![Google Sheets](https://img.shields.io/badge/Google%20Sheets-9B2335?style=flat-square&labelColor=0F3D3A&logo=googlesheets&logoColor=F5DABF)
-![Gmail](https://img.shields.io/badge/Gmail-9B2335?style=flat-square&labelColor=0F3D3A&logo=gmail&logoColor=F5DABF)
-![Telegram](https://img.shields.io/badge/Telegram-9B2335?style=flat-square&labelColor=0F3D3A&logo=telegram&logoColor=F5DABF)
-![Notion](https://img.shields.io/badge/Notion-9B2335?style=flat-square&labelColor=0F3D3A&logo=notion&logoColor=F5DABF)
-![Docker](https://img.shields.io/badge/Docker-9B2335?style=flat-square&labelColor=0F3D3A&logo=docker&logoColor=F5DABF)
-![Vercel](https://img.shields.io/badge/Vercel-9B2335?style=flat-square&labelColor=0F3D3A&logo=vercel&logoColor=F5DABF)
+![n8n](https://img.shields.io/badge/n8n-6C151E?style=flat-square&labelColor=6C151E&logo=n8n&logoColor=F5DABF)
+![Groq](https://img.shields.io/badge/Groq-6C151E?style=flat-square&labelColor=6C151E)
+![React](https://img.shields.io/badge/React-6C151E?style=flat-square&labelColor=6C151E&logo=react&logoColor=F5DABF)
+![TypeScript](https://img.shields.io/badge/TypeScript-6C151E?style=flat-square&labelColor=6C151E&logo=typescript&logoColor=F5DABF)
+![Tailwind](https://img.shields.io/badge/Tailwind-6C151E?style=flat-square&labelColor=6C151E&logo=tailwindcss&logoColor=F5DABF)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-6C151E?style=flat-square&labelColor=6C151E&logo=googlesheets&logoColor=F5DABF)
+![Gmail](https://img.shields.io/badge/Gmail-6C151E?style=flat-square&labelColor=6C151E&logo=gmail&logoColor=F5DABF)
+![Telegram](https://img.shields.io/badge/Telegram-6C151E?style=flat-square&labelColor=6C151E&logo=telegram&logoColor=F5DABF)
+![Notion](https://img.shields.io/badge/Notion-6C151E?style=flat-square&labelColor=6C151E&logo=notion&logoColor=F5DABF)
+![Docker](https://img.shields.io/badge/Docker-6C151E?style=flat-square&labelColor=6C151E&logo=docker&logoColor=F5DABF)
+![Vercel](https://img.shields.io/badge/Vercel-6C151E?style=flat-square&labelColor=6C151E&logo=vercel&logoColor=F5DABF)
 
 ## Now
 
