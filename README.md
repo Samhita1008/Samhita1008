@@ -14,7 +14,7 @@
 
 <img src="./assets/samhita.png" alt="Samhita" width="110" align="right" />
 
-I'm a freelance AI automation engineer and the founder of **Edit Theory**, an AI automation practice for D2C brands and local businesses. I build n8n + LLM systems where a human approves anything that goes out under your name, and I write down what broke while building them. Open to remote projects.
+I'm a freelance AI automation engineer and the founder of **Edit Theory**. I build n8n + LLM systems that capture enquiries, follow up automatically and book customers for D2C brands and local businesses, with a person approving everything that goes out under your name. I write down what broke while building them. Open to remote projects.
 
 [Resume (PDF)](./Samhita_Tavutu_Resume.pdf) · [Email me](mailto:samhitatavutu@gmail.com)
 
@@ -34,7 +34,7 @@ A customer-facing booking assistant for local businesses. Pick a category, searc
 Runs the complaint-to-resolution loop for an apartment society over Telegram. The AI drafts, the secretary approves everything that leaves the building.
 
 **[edit-theory-agents](https://github.com/Samhita1008/edit-theory-agents)**  
-The full set of eight n8n agents, each with a pipeline, a stack and engineering notes. Six publish their workflow JSON so you can import and run them, including the newest, [Contract Redlining](https://github.com/Samhita1008/edit-theory-agents/tree/main/8-contract-redlining-agent).
+The full set of eight n8n agents, each with a pipeline, a stack and engineering notes. Six publish their workflow JSON so you can import and run them. For lead follow-up and outreach, start with [AI Outreach](https://github.com/Samhita1008/edit-theory-agents/tree/main/2-ai-outreach) and [Restaurant Outreach](https://github.com/Samhita1008/edit-theory-agents/tree/main/4-restaurant-outreach).
 
 **[edittheory-portfolio](https://github.com/Samhita1008/edittheory-portfolio)**  
 The source of my [portfolio site](https://edittheory-portfolio.vercel.app/): a scroll-driven case-study site that opens by zooming into the letter T of the logo.
@@ -65,6 +65,7 @@ Eleven concept websites for local brands, built as working demos.
 
 ## Now
 
+- Looking for pilot clients for lead follow-up and booking automation
 - Taking Concierge from demo to a real restaurant partner
 - Finding a real society secretary to pilot the RWA agent
 - Exploring packaging the Restaurant Outreach system as a product
