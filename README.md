@@ -12,7 +12,9 @@
 
 ## Hi, I'm Samhita
 
-I'm a second-year CSE student building **Edit Theory**, an AI automation practice for D2C brands and local businesses. I ship systems that run on free-tier infrastructure, and I write down what broke while building them.
+I'm a freelance AI automation engineer and the founder of **Edit Theory**, an AI automation practice for D2C brands and local businesses. I build n8n + LLM systems where a human approves anything that goes out under your name, and I write down what broke while building them. Open to remote projects.
+
+[Resume](./RESUME.md) · [Email me](mailto:samhitatavutu@gmail.com)
 
 Most automation work is invisible. A workflow hums in the background and only its owner ever sees it. I try to build the ones that have a front door, and to be upfront about which parts are live and which are simulated.
 
