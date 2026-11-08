@@ -12,7 +12,7 @@
 
 ## Hi, I'm Samhita
 
-<img src="./assets/samhita.jpg" alt="Samhita" width="150" align="right" />
+<img src="./assets/samhita.png" alt="Samhita" width="110" align="right" />
 
 I'm a freelance AI automation engineer and the founder of **Edit Theory**, an AI automation practice for D2C brands and local businesses. I build n8n + LLM systems where a human approves anything that goes out under your name, and I write down what broke while building them. Open to remote projects.
 
