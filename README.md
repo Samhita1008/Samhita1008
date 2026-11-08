@@ -32,7 +32,7 @@ A customer-facing booking assistant for local businesses. Pick a category, searc
 Runs the complaint-to-resolution loop for an apartment society over Telegram. The AI drafts, the secretary approves everything that leaves the building.
 
 **[edit-theory-agents](https://github.com/Samhita1008/edit-theory-agents)**  
-The full set of eight n8n agents, each with a pipeline, a stack and engineering notes. Four publish their workflow JSON so you can import and run them, including the newest, [Contract Redlining](https://github.com/Samhita1008/edit-theory-agents/tree/main/8-contract-redlining-agent).
+The full set of eight n8n agents, each with a pipeline, a stack and engineering notes. Six publish their workflow JSON so you can import and run them, including the newest, [Contract Redlining](https://github.com/Samhita1008/edit-theory-agents/tree/main/8-contract-redlining-agent).
 
 **[edittheory-portfolio](https://github.com/Samhita1008/edittheory-portfolio)**  
 The source of my [portfolio site](https://edittheory-portfolio.vercel.app/): a scroll-driven case-study site that opens by zooming into the letter T of the logo.

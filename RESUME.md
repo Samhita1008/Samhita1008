@@ -5,7 +5,7 @@
 Freelance AI Automation Engineer · Remote · Chennai, India (IST)
 [samhitatavutu@gmail.com](mailto:samhitatavutu@gmail.com) · [LinkedIn](https://linkedin.com/in/samhita-tavutu-b17b2a37b/) · [GitHub](https://github.com/Samhita1008) · [Portfolio](https://edittheory-portfolio.vercel.app/)
 
-Eight systems built and documented, with full importable n8n workflows published for four of them: [edit-theory-agents](https://github.com/Samhita1008/edit-theory-agents).
+Eight systems built and documented, with full importable n8n workflows published for six of them: [edit-theory-agents](https://github.com/Samhita1008/edit-theory-agents).
 
 ## What I do for clients
 
@@ -36,7 +36,7 @@ Residents message a Telegram bot and complaints are classified and ticketed. The
 Scores risk, routes to counsel for approval, and books an outcome-based fee only after sign-off. Nothing goes to the counterparty. Built and validated in n8n, not yet run end to end on a real contract. [Workflow file](https://github.com/Samhita1008/edit-theory-agents/blob/main/8-contract-redlining-agent/workflow.json)
 
 **[Restaurant Outreach System](https://github.com/Samhita1008/edit-theory-agents/tree/main/4-restaurant-outreach)**: audits restaurant websites and writes pitches based on what's wrong
-Three workflows cover discovery and drafting, human review and sending, and reply tracking with Telegram alerts. Nothing is sent without approval.
+Three workflows cover discovery and drafting, human review and sending, and reply tracking with Telegram alerts. Nothing is sent without approval. [Workflow file](https://github.com/Samhita1008/edit-theory-agents/blob/main/4-restaurant-outreach/workflow.json)
 
 **[Email Digest Agent](https://github.com/Samhita1008/edit-theory-agents/tree/main/5-email-digest)**: turns a noisy inbox into a short Telegram summary
 Sorts mail by urgency, filters low-value messages and summarizes the rest with Groq. [Workflow file](https://github.com/Samhita1008/edit-theory-agents/blob/main/5-email-digest/workflow.json)
@@ -45,7 +45,7 @@ Sorts mail by urgency, filters low-value messages and summarizes the rest with G
 
 **[Lead Discovery System](https://github.com/Samhita1008/edit-theory-agents/tree/main/3-lead-scraper)**: finds and scores Instagram leads for a niche and drafts outreach for each. [Workflow file](https://github.com/Samhita1008/edit-theory-agents/blob/main/3-lead-scraper/workflow.json)
 
-**[AI Outreach System](https://github.com/Samhita1008/edit-theory-agents/tree/main/2-ai-outreach)**: personalized cold emails, scheduled follow-ups and reply tracking.
+**[AI Outreach System](https://github.com/Samhita1008/edit-theory-agents/tree/main/2-ai-outreach)**: personalized cold emails, scheduled follow-ups and reply tracking. [Workflow file](https://github.com/Samhita1008/edit-theory-agents/blob/main/2-ai-outreach/workflow.json)
 
 **Verified Home Tuition Marketplace** (client project, Chennai pilot)
 Building the n8n backend (WhatsApp, Sheets, Razorpay, Google Meet) and the frontend for parent and tutor flows.
